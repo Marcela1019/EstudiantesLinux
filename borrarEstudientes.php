@@ -2,7 +2,7 @@
 
     //para imprimir errores en ejecucion;
 
-ini_set("display_errors", 1);
+ini_set("display_errores", 1);
 
 ini_set("display_startup_errors", 1);
 
