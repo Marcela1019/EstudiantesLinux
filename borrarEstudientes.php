@@ -1,6 +1,6 @@
 <?php
 
-    //para imprimir errores en ejecucion;
+    //para imprimir errores;
 
 ini_set("display_errores", 1);
 
